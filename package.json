@@ -1,6 +1,6 @@
 {
   "name": "whistle.rules_watcher",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "可以使用本地文件作为rules规则，方便工程继承",
   "repository": "https://github.com/ElvisWang27/whistle.rules_watcher.git",
   "dependencies": {
