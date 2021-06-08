@@ -1,5 +1,8 @@
 # whistle.rules_watcher
 
+## Install
+`npm install -g whistle.rules_wacher`
+
 ## Usage
 Add rules in the whistle rules： `* whistle.rules_watcher://${path}`
 
