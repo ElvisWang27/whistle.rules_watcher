@@ -1,4 +1,5 @@
 # whistle.rules_watcher
+Use local file as whistle rules, the plugin will watch rules file change
 
 ## Install
 `npm install -g whistle.rules_wacher`
