@@ -1,9 +1,12 @@
 {
   "name": "whistle.rules_watcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use local file as whistle rules, the plugin will watch rules file change, 可以使用本地文件作为rules规则，方便工程继承",
   "license": "MIT",
-  "keywords": ["whistle","plugin"],
+  "keywords": [
+    "whistle",
+    "plugin"
+  ],
   "repository": "https://github.com/ElvisWang27/whistle.rules_watcher.git",
   "dependencies": {
     "chokidar": "^3.5.1"
