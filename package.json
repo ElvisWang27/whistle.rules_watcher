@@ -2,6 +2,7 @@
   "name": "whistle.rules_watcher",
   "version": "1.0.0",
   "description": "可以使用本地文件作为rules规则，方便工程继承",
+  "license": "MIT",
   "repository": "https://github.com/ElvisWang27/whistle.rules_watcher.git",
   "dependencies": {
     "chokidar": "^3.5.1"
